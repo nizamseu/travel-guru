@@ -1,0 +1,9 @@
+.homefeture{
+    display: flex;
+    color:white;
+    flex-flow: row wrap;
+}
+.homeFetureDetails{
+    text-align: left;
+   padding-left: 5%;
+}

@@ -1,0 +1,14 @@
+.bookingCard{
+    width: 18rem;
+   margin: 10px;
+   border-radius: 20px;
+   border: none;
+   
+
+   
+}
+.link{
+        text-decoration: none;
+        color: inherit;
+  
+}

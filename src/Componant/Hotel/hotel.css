@@ -1,0 +1,13 @@
+.hotel{
+    display: flex;
+    flex-flow: row wrap;
+   margin-top: 20px;
+}
+.mapArea{
+  padding: 20px;
+  height: 500px;
+  margin: 15px;
+}
+.color{
+color: gray;
+}
