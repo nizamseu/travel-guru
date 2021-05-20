@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <userContext.Provider value={[user,setUser]}>
       <Router>
-      <Registration></Registration>
+      {/* <Registration></Registration> */}
         <Switch>
 
           {/* <Route path="/signup">
